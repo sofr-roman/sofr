@@ -1,0 +1,20 @@
+C:\Users\Администратор\source\repos\11\11\bin\Debug\11.exe.config
+C:\Users\Администратор\source\repos\11\11\bin\Debug\11.exe
+C:\Users\Администратор\source\repos\11\11\bin\Debug\11.pdb
+C:\Users\Администратор\source\repos\11\11\obj\Debug\11.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\11\11\obj\Debug\_11.Form1.resources
+C:\Users\Администратор\source\repos\11\11\obj\Debug\_11.Properties.Resources.resources
+C:\Users\Администратор\source\repos\11\11\obj\Debug\11.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\11\11\obj\Debug\11.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\11\11\obj\Debug\11.exe
+C:\Users\Администратор\source\repos\11\11\obj\Debug\11.pdb
+Z:\303 гр 2022 год\уч практика\отчеты\Софронов\Софронов\11\bin\Debug\11.exe.config
+Z:\303 гр 2022 год\уч практика\отчеты\Софронов\Софронов\11\bin\Debug\11.exe
+Z:\303 гр 2022 год\уч практика\отчеты\Софронов\Софронов\11\bin\Debug\11.pdb
+Z:\303 гр 2022 год\уч практика\отчеты\Софронов\Софронов\11\obj\Debug\11.csproj.AssemblyReference.cache
+Z:\303 гр 2022 год\уч практика\отчеты\Софронов\Софронов\11\obj\Debug\_11.Form1.resources
+Z:\303 гр 2022 год\уч практика\отчеты\Софронов\Софронов\11\obj\Debug\_11.Properties.Resources.resources
+Z:\303 гр 2022 год\уч практика\отчеты\Софронов\Софронов\11\obj\Debug\11.csproj.GenerateResource.cache
+Z:\303 гр 2022 год\уч практика\отчеты\Софронов\Софронов\11\obj\Debug\11.csproj.CoreCompileInputs.cache
+Z:\303 гр 2022 год\уч практика\отчеты\Софронов\Софронов\11\obj\Debug\11.exe
+Z:\303 гр 2022 год\уч практика\отчеты\Софронов\Софронов\11\obj\Debug\11.pdb
